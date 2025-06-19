@@ -20,7 +20,7 @@ class Cat extends Animal {
     }
 }
 
-public class methodoverriddingExample {
+public class MethodOverride {
     public static void main(String[] args) {
         Animal a1 = new Animal(); 
         Animal a2 = new Dog();    
