@@ -2,7 +2,7 @@ package xyz;
 
 import java.util.HashSet;
 import java.util.ArrayList;
-public class convertinghashsettoarraylist {
+public class HashsetToArraylist{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
